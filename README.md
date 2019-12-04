@@ -4,7 +4,7 @@ If you're looking for a way to quickly and easily get up and running with a Pi-h
 
 This project is a [balenaCloud](https://www.balena.io/cloud) stack with the following services:
 
-* [Pi-hole](https://hub.docker.com/r/pihole/pihole/) (including [PADD](https://github.com/jpmck/PADD))
+* [Pi-hole](https://hub.docker.com/r/pihole/pihole/) 
 * [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) _(optional)_
 
 balenaCloud is a free service to remotely manage and update your Raspberry Pi through an online dashboard interface, as well as providing remote access to the Pi-hole web interface without any additional configuation.
@@ -46,6 +46,7 @@ If you're having trouble getting the project running, submit an issue or post on
 ## Author
 
 Kyle Harding <https://klutchell.dev>
+Jose Jamilena (private modifications)
 
 ## Acknowledgments
 
